@@ -17,20 +17,14 @@
 <!-- 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=0C2B39&center=true&vCenter=true&width=450&height=70&lines=8%2B+years+of+hands-on+IT+experience;Sincere+and+Reliable+Java+Backend+Developer;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a> -->
   <br>
-&nbsp;&nbsp;I am a Java Developer with <strong>10+ years</strong> of experience in developing and maintaining enterprise-level applications. I have expertise in <strong>Java</strong>, <strong>J2EE</strong>, <strong>Spring</strong>, <strong>Spring Boot</strong>, <strong>Hibernate</strong>, and <strong>web services</strong>. I have a proven track record of successful projects and have experience in developing <strong>high-performance</strong> applications using <strong>object-oriented programming</strong>.
-
-&nbsp;&nbsp;Also, I have expertise in <strong>Python</strong>, <strong>Django</strong>, <strong>Flask</strong>, <strong>NumPy</strong>, <strong>SciPy</strong>, and <strong>Pandas</strong> and have expertise in <strong>Hyperledger Fabric</strong>, <strong>Ethereum</strong>, <strong>Solidity</strong>, <strong>Bitcoin Core</strong>, and other <strong>blockchain technologies</strong> as well.<br>
-&nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
-&nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
-
 </p>
 
 <br><br>
 <!-- ## 🤗 Welcome -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Technical Stack
-- ☕ Java 𒑰 Spring Boot 𒑰 Spring 𒑰 MVC 𒑰 Microservices 𒑰 Java Beans 𒑰 RESTful Web Services 𒑰 AWS
-- 📚 Hibernate 𒑰 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB
+- ☕ Swift 𒑰 Kotlin 𒑰 React Native 𒑰 Flutter
+- 📚 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB
 - 🎒 Swagger API 𒑰 Zuul 𒑰 Eureka 𒑰 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django
 - ⚡ JavaScript 𒑰 Typescript 𒑰 Node.js 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C#
 - 🥇 Angular 𒑰 Angular Material 𒑰 React 𒑰 Material UI 𒑰 Ant Design
