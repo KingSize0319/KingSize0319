@@ -25,7 +25,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Technical Stack
 - ☕ Swift 𒑰 Kotlin 𒑰 React Native 𒑰 Flutter
 - 📚 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB
-- 🎒 Swagger API 𒑰 Zuul 𒑰 Eureka 𒑰 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django
+- 🎒 Go 𒑰 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django
 - ⚡ JavaScript 𒑰 Typescript 𒑰 Node.js 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C#
 - 🥇 Angular 𒑰 Angular Material 𒑰 React 𒑰 Material UI 𒑰 Ant Design
 - 🏹 Chrome extension with React & Redux
@@ -37,7 +37,7 @@
 - 🍃 RESTful Web Services & Web Services with Spring Boot
 - 🔗 Third Party API Integration & OAuth
 - 🎨 Angular 𒑰 Angular Material 𒑰 React 𒑰 Next.js
-- 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
+- 💪 Go 𒑰 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
 
 ### 🌱 What I'm boosting
 - 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
